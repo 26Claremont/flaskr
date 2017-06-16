@@ -9,3 +9,6 @@ def initdb_command():
     """Initializes the database."""
     init_db()
     print('Initialized the database.')
+    
+    flask initdb
+Initialized the database.
